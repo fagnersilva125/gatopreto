@@ -3,4 +3,4 @@ def calcularcircunferencia(raio):
     return pi*raio**2
 
 if __name__ == "__main__":
-    print(calcularcircunferencia(float(input("digite o raio"))))
+    print(calcularcircunferencia(float(input("digite o raio: "))))
